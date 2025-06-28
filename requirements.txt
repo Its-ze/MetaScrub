@@ -1,0 +1,8 @@
+pillow
+piexif
+pikepdf
+python-docx
+openpyxl
+python-pptx
+ffmpeg-python
+hachoir
